@@ -12,13 +12,13 @@
 
 In this meeting we establish our team identity and decide on how the team will operate going forward. We also assign tasks to formalize team branding.
 
- + Introductions
- + [Weekly Meeting Discussion](#weekly-meeting)
- + [Group Contract Discussion](#group-contract)
- + [Team Name Discussion](#team-name)
- + [Team Branding Discussion](#team-branding)
- + [Team Intro Video Discussion](#team-intro-video)
- + [Group Bonding Event Discussion](#group-bonding-event)
+- Introductions
+- [Weekly Meeting Discussion](#weekly-meeting)
+- [Group Contract Discussion](#group-contract)
+- [Team Name Discussion](#team-name)
+- [Team Branding Discussion](#team-branding)
+- [Team Intro Video Discussion](#team-intro-video)
+- [Group Bonding Event Discussion](#group-bonding-event)
 
 ## Discussion
 
