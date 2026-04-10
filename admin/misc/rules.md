@@ -101,3 +101,4 @@ The purpose of this team and project is to learn effective ways of software deve
 If you agree to the following rules please write your name below (which will be your digital signature) and push to github on a new branch named yourname-signature (all lower case) using your GitHub account.
 
 **Signature (Digital):**
+Nikita Jos
