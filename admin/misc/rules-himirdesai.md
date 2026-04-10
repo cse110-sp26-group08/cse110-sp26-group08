@@ -65,19 +65,19 @@ The purpose of this team and project is to learn effective ways of software deve
 
 ### Organizational/Leadership Roles
 
-| Members          | Meeting Note Taker | Meeting Setup and Narrator | Task Completion Remainders |  Announcements |
-| ---------------- | :----------------: | :------------------------: | :------------------------: |  :-----------: |
-| Himir Desai      |                    |             x              |             x              |                |
-| Matthew Bozoukov |          x         |                            |                            |       x        |
-| Nikita Jos       |                    |                            |                            |                |
-| Ki Diaz          |                    |                            |                            |                |
-| William Ayoade   |                    |                            |                            |                |
-| Felix Tong       |                    |                            |                            |                |
-| Yusuf Damda      |                    |                            |                            |                |
-| Matthew Beaudin  |                    |                            |                            |                |
-| Yang Bie         |                    |                            |                            |                |
-| Vinh Tong        |                    |                            |                            |                |
-| John Bolibol     |                    |                            |                            |                |
+| Members          | Meeting Note Taker | Meeting Setup and Narrator | Task Completion Remainders | Announcements |
+| ---------------- | :----------------: | :------------------------: | :------------------------: | :-----------: |
+| Himir Desai      |                    |             x              |             x              |               |
+| Matthew Bozoukov |         x          |                            |                            |       x       |
+| Nikita Jos       |                    |                            |                            |               |
+| Ki Diaz          |                    |                            |                            |               |
+| William Ayoade   |                    |                            |                            |               |
+| Felix Tong       |                    |                            |                            |               |
+| Yusuf Damda      |                    |                            |                            |               |
+| Matthew Beaudin  |                    |                            |                            |               |
+| Yang Bie         |                    |                            |                            |               |
+| Vinh Tong        |                    |                            |                            |               |
+| John Bolibol     |                    |                            |                            |               |
 
 **Meeting Note Taking:** You will be responsible for planning meetings and taking detailed notes during meetings.\
 **Meeting Setup and Narrator:** This role requires you to set up meetings, share meeting links, remind everyone about future meetings and actively speak and direct the meeting. This role requires you to actively work with Note Taker to plan meetings.\
@@ -100,4 +100,4 @@ The purpose of this team and project is to learn effective ways of software deve
 
 If you agree to the following rules please write your name below (which will be your digital signature) and push to github on a new branch named yourname-signature (all lower case) using your GitHub account.
 
-**Signature (Digital):**
+**Signature (Digital): Himir Desai**
