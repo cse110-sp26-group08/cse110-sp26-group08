@@ -2,11 +2,11 @@
 
 **Date: April 10, 2026**\
 **Location: Zoom Meeting**\
-**Start Time:**\
-**End Time:**
+**Start Time:**\ 2:33
+**End Time:** 3:330
 
-**Present:**\
-**Absent:**
+**Present:**\ Himir, Felix, John, Ki, Matthew, Vinh, William, Yang, Yusuf
+**Absent:** Nikita,
 
 ## Meeting Outline and Goals
 
@@ -23,45 +23,53 @@ In this meeting we establish our team identity and decide on how the team will o
 ## Discussion
 
 #### Weekly Meeting
+We will meet during the discussion for this class monday 4-5pm
+
+Asynchronous for now, but in the future we can go to scynhronous
 
 #### Group Contract
+Make a branch titled your name with your name-signature for the rules.md file and make your own copy where you write your name on the bottom of the signature section. Then publish your branch.
 
 #### Team Name
+We decided on a team name "seven ate nine".
 
 #### Team Branding
 
-Colors
+Colors: John B and Ki
 
-Logo
+Logo: John B Will work on this
 
-Mascot
+Mascot: We are leaving it for later
 
-Fonts
+Fonts: 
 
-Power Point Theme
+Power Point Theme: Ki will work on the template
 
-Team Page
+Team Page: Felix and Matthew Bozoukov will work on this
 
-README Page
+README Page: provide a link to the team page
 
 #### Team Intro Video
-
+3 videos
+3-4 seconds per video where first video you say your name, 2nd video is a fun fact and the third video you say what you are excited about the team.
 #### Group Bonding Event
+We played skribble.io and Himir took the photo of the zoom call and the game webpage
 
 ## Takeaway and Major Decisions Summary
+We have all of our tasks
 
 #### Tasks and Updates
 
 | Members          | Tasks (Due Sunday) | Comments |
 | ---------------- | :----------------: | :------: |
-| Himir Desai      |                    |          |
-| Matthew Bozoukov |                    |          |
+| Himir Desai      |Finished group contract|          |
+| Matthew Bozoukov |Team page           |          |
 | Nikita Jos       |                    |          |
-| Ki Diaz          |                    |          |
+| Ki Diaz          |Powerpoint theme    |          |
 | William Ayoade   |                    |          |
-| Felix Tong       |                    |          |
-| Yusuf Damda      |                    |          |
+| Felix Tong       |Team page           |          |
+| Yusuf Damda      |Video               |          |
 | Matthew Beaudin  |                    |          |
-| Yang Bie         |                    |          |
+| Yang Bie         |Video               |          |
 | Vinh Tong        |                    |          |
-| John Bolibol     |                    |          |
+| John Bolibol     |Team logo           |          |
