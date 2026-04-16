@@ -4,7 +4,7 @@ Project for CSE 110 Spring 2026
 
 ## Team Info Page
 
-[Team page](./admin/team.md)
+[Team page](https://cse110-sp26-group08.github.io/cse110-sp26-group08/admin/team.html)
 
 ## Meetings
 
