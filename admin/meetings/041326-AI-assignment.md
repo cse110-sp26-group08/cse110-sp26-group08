@@ -1,6 +1,6 @@
 # Second Meeting for Team 08 - Seven Ate Nine
 
-**Date: April 20, 2026**\
+**Date: April 13, 2026**\
 **Location: Zoom Meeting**\
 **Start Time:** 4:00 PM\
 **End Time:** 7:00 pm
