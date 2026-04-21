@@ -1,6 +1,6 @@
-# Kickoff Meeting for Team 08 - Seven Ate Nine
+# Second Meeting for Team 08 - Seven Ate Nine
 
-**Date: April 10, 2026**\
+**Date: April 20, 2026**\
 **Location: Zoom Meeting**\
 **Start Time:** 4:00 PM\
 **End Time:** 7:00 pm
@@ -13,7 +13,7 @@
 
 In this meeting we complete the assignment where we create an slot machine app. 
 
-- [Kickoff Meeting for Team 08 - Seven Ate Nine](#kickoff-meeting-for-team-08---seven-ate-nine)
+- [Second Meeting for Team 08 - Seven Ate Nine](#second-meeting-for-team-08---seven-ate-nine)
   - [Meeting Outline and Goals](#meeting-outline-and-goals)
   - [Discussion](#discussion)
     - [Codex setup](#codex-setup)

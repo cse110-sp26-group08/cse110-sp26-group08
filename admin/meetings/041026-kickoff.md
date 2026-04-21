@@ -13,12 +13,17 @@
 
 In this meeting we establish our team identity and decide on how the team will operate going forward. We also assign tasks to formalize team branding.
 
-- [Weekly Meeting Discussion](#weekly-meeting)
-- [Group Contract Discussion](#group-contract)
-- [Team Name Discussion](#team-name)
-- [Team Branding Discussion](#team-branding)
-- [Team Intro Video Discussion](#team-intro-video)
-- [Group Bonding Event Discussion](#group-bonding-event)
+- [Kickoff Meeting for Team 08 - Seven Ate Nine](#kickoff-meeting-for-team-08---seven-ate-nine)
+  - [Meeting Outline and Goals](#meeting-outline-and-goals)
+  - [Discussion](#discussion)
+    - [Weekly Meeting](#weekly-meeting)
+    - [Group Contract](#group-contract)
+    - [Team Name](#team-name)
+    - [Team Branding](#team-branding)
+    - [Team Intro Video](#team-intro-video)
+    - [Group Bonding Event](#group-bonding-event)
+  - [Takeaways and Summary](#takeaways-and-summary)
+    - [Tasks and Updates](#tasks-and-updates)
 
 ## Discussion
 
@@ -60,7 +65,7 @@ We decided to play skribble.io after the meeting and Himir took the photo of the
 
 ## Takeaways and Summary
 - Team meeting time decided - Mondays 4-5pm
-- Group contract agreen upon and roles decided
+- Group contract agreed upon and roles decided
 - Team name decided - Seven Ate Nine
 - Team Branding tasks divided
 - Team intro video format decided
