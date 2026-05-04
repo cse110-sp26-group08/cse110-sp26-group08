@@ -1,4 +1,4 @@
-# Second Meeting for Team 08 - Seven Ate Nine
+# Weekly Meeting for Team 08 - Seven Ate Nine
 
 **Date: April 13, 2026**\
 **Location: Zoom Meeting**\
@@ -13,7 +13,7 @@
 
 In this meeting we complete the assignment where we create an slot machine app. 
 
-- [Second Meeting for Team 08 - Seven Ate Nine](#second-meeting-for-team-08---seven-ate-nine)
+- [Weekly Meeting for Team 08 - Seven Ate Nine](#weekly-meeting-for-team-08---seven-ate-nine)
   - [Meeting Outline and Goals](#meeting-outline-and-goals)
   - [Discussion](#discussion)
     - [Codex setup](#codex-setup)
