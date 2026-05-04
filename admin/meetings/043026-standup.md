@@ -6,8 +6,8 @@
 **End Time:** 8:33 AM (May 1)
 
 **Present:** Himir Desai, Yusuf Damda, Ki Diaz, Yang Bie, Felix Tong, Vinh Tong, Matthew Beaudin, Matthew Bozoukov\
-**Late:** \
-**Absent:** John Bolibol, William Ayoade, Nikita Jos
+**Late:** John Bolibol, Nikita Jos\
+**Absent:** William Ayoade
 
 ## Meeting Outline and Goals
 
@@ -24,6 +24,8 @@ Due to midterm exams scheduled for the next day, the team conducted a creative a
     - [Team Composition Approaches](#team-composition-approaches)
     - [Bus Factor and Knowledge Distribution](#bus-factor-and-knowledge-distribution)
     - [Pair Programming Strategy](#pair-programming-strategy)
+    - [Conway's Law](#conways-law)
+    - [Iron Triangle (Scope, Time, Cost)](#iron-triangle-scope-time-cost)
   - [Takeaways and Summary](#takeaways-and-summary)
 
 ## Standup Contributions
@@ -117,6 +119,22 @@ The "bus factor" measures how many team members can be removed from the project 
 Building on the bus factor concept, pair programming can mitigate risk by ensuring at least two people understand each part of the codebase. This reduces the bus factor and prevents project stalls if one team member becomes unavailable.
 
 **Application to project:** We should consider pair programming (especially for critical components) as a risk mitigation strategy. This also aligns with the earlier discussion about code reviews and pull requests—pairs can review each other's work and share knowledge.
+
+### Conway's Law
+
+**Contributor:** Nikita Jos
+
+Conway's Law states that a system's design mirrors the communication structure of the organization that builds it. With a project like Watchtower that has multiple interconnected components, it's easy for features and functionality to become confused or entangled if team communication is unclear.
+
+**Application to project:** Clear communication within the team is essential to ensure that individual components integrate properly and the project doesn't fall apart. Team structure and communication patterns will directly reflect in the architecture and cohesion of our final product.
+
+### Iron Triangle (Scope, Time, Cost)
+
+**Contributor:** John Bolibol
+
+The iron triangle represents the constraint that scope, time, and cost are interconnected—optimizing one typically impacts the others. Our project has limited time and resources (the quarter length and team size), so we must balance how much we can realistically build.
+
+**Application to project:** If we try to add more features (increase scope), we may need more time or effort. Our team must make strategic trade-offs and prioritize what's most important for an MVP rather than attempting to build a feature-complete system. This aligns with the project philosophy that stability and process are more important than extensive features.
 
 ## Takeaways and Summary
 
