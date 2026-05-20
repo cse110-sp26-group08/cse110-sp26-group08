@@ -53,6 +53,6 @@ Project for CSE 110 Spring 2026
 ## Videos
 
 - Team intro: [admin/videos/teamintro.mp4](admin/videos/teamintro.mp4)
-
+- Status Video 1: [YouTube link](https://www.youtube.com/watch?v=Cfy2b1GL5Ik&t=5s)
 ---
 
