@@ -5,9 +5,9 @@
 **Start Time:** 4:00  
 **End Time:** 4:45  
 
-**Present:** Team 08  
+**Present:** Matthew Beaudin, Yang Bie, Matthew Bozoukov, Vinh Tong, Ki Diaz, Yusuf Damda, William Ayoade, John Bolibol, Himir Desai
 **Late:**  
-**Absent:**  
+**Absent:** Nikita Jos, Felix Tong
 
 ## Meeting Outline and Goals
 
