@@ -1,97 +1,138 @@
-# Weekly Meeting for Team 08 - Seven Ate Nine
-
 **Date: June 1, 2026**  
-**Location:** Team Weekly Meeting  
-**Start Time:** 4:04 PM  
-**End Time:** 4:29 PM  
+**Location:** Zoom  
+**Start Time:** 6:00pm  
+**End Time:** 6:30pm  
 
-**Present:** Himir Desai, Matthew Bozoukov, Yang Bie, Yusuf Damda, Nikita Jos, Ki Diaz, Vinh Tong Matthew Beaudin, John Bolibol, William Ayoade, Felix Tong
-**Late:**  
-**Absent:** 
+**Present:** Himir Desai, Matthew Bozoukov, Yang Bie, Ki Diaz, Vinh Tong, Yusuf Damda, John Bolibol, Nikita Jos,  William Ayoade
+**Absent:** Matthew Beaudin, Felix Tong
 
 ## Meeting Outline and Goals
 
-This weekly meeting focused on final bug triage, assigning the remaining GitHub issues, clarifying a few ambiguous issue definitions, and setting a short deadline so the team could finish bug fixes before deployment and final validation.
+Meeting with TA Audria to discuss the upcoming midterm, code freeze expectations, repository documentation requirements, CI/CD expectations, and final project feedback.
 
-- [Weekly Meeting for Team 08 - Seven Ate Nine](#weekly-meeting-for-team-08---seven-ate-nine)
-  - [Meeting Outline and Goals](#meeting-outline-and-goals)
-  - [Discussion](#discussion)
-    - [Bug Triage and Assignment Plan](#bug-triage-and-assignment-plan)
-    - [Navbar and Logged-In State Issues](#navbar-and-logged-in-state-issues)
-    - [Privacy Policy, CORS, and Missing Issues](#privacy-policy-cors-and-missing-issues)
-    - [Homepage Cleanup and Small UX Fixes](#homepage-cleanup-and-small-ux-fixes)
-  - [Takeaways and Summary](#takeaways-and-summary)
+- [Meeting Outline and Goals](#meeting-outline-and-goals)
+- [Discussion](#discussion)
+  - [Midterm Expectations](#midterm-expectations)
+  - [Code Freeze and Repository Requirements](#code-freeze-and-repository-requirements)
+  - [Wiki Expectations](#wiki-expectations)
+  - [Student Questions](#student-questions)
+  - [Project Feedback](#project-feedback)
+- [Takeaways and Summary](#takeaways-and-summary)
 
 ## Discussion
 
-### Bug Triage and Assignment Plan
+### Midterm Expectations
 
-Himir opened the meeting by noting that the team had roughly 17 open GitHub issues, representing the current known bug list.
+Audria shared several reminders about the upcoming midterm.
 
-The main instruction for the week was:
+Key points included:
 
-- Everyone should immediately assign themselves a bug on GitHub
-- Simple bugs should be finished first before the team moves to more complex fixes
-- The goal is to finish all current bugs by Wednesday or, at worst, Thursday
+- Two midterm questions have already been posted in Slack.
+- Students should understand what their project is about and be able to explain it using key concepts and terminology.
+- Students should know their team's CI pipeline.
+- Team members should talk with whoever worked on the CI pipeline so they understand how it works.
+- The exam will focus more on reading and understanding code rather than writing code.
+- Some responses may only require keywords rather than lengthy explanations.
+- Students should manage their time carefully because not every question requires a long response.
 
-The reasoning was practical: if the team tackles only harder issues first, those changes may introduce additional bugs and create extra cleanup work right before deployment.
+Additional clarification:
 
-During the meeting, team members claimed issues live. Yang took Issue #70, Yusuf took Issue #74, Matthew Bozoukov took Issue #75 and said he could also handle Issue #73, and Nikita initially volunteered for Issues #84 and #85 before Himir took #85 and suggested Nikita instead work on Issue #86.
+- MT2 contains 12 questions.
+- The exam is expected to be lengthy, similar to Midterm 1.
+- Some questions may require detailed explanations while others may only need brief keyword-based answers.
 
-### Navbar and Logged-In State Issues
+### Code Freeze and Repository Requirements
 
-One recurring topic was confusion around homepage navigation when a user is already logged in.
+Audria reminded teams that code freeze is scheduled for Sunday EOD.
 
-Himir explained that the bug was not literally that the Docs or Home buttons log users out. Instead, the homepage navbar always shows `Log In` and `Get Started`, even if the user already has an active session. That creates a misleading experience because a signed-in user can still navigate directly into the dashboard.
+Important expectations:
 
-The team discussed two related fixes:
+- No additional code changes should be made after the freeze.
+- Documentation and wireframe updates are still allowed.
+- Grading will be based on the main branch.
+- Teams should avoid leaving unfinished work in the main branch.
 
-- Separating the landing-page navbar from the internal dashboard navbar
-- Adding conditional rendering so logged-in users see navigation options such as going directly to the dashboard or apps page
+If extra features are unlikely to be completed before code freeze:
 
-Yang noted that separating internal and landing navigation would likely resolve part of the issue, while Himir clarified that logged-in behavior still needed to be handled explicitly.
+- Keep those features on a separate branch.
+- Document unfinished work in the Wiki.
+- Clearly state what has already been implemented.
+- Clearly state what still remains to be completed.
 
-### Privacy Policy, CORS, and Missing Issues
+### Wiki Expectations
 
-The meeting also covered a few issues that were either unclear or not yet properly represented in the bug list.
+The discussion included clarification about what should be included in the project Wiki.
 
-For Issue #86, Yang pointed out that the team should not remove privacy-policy related links outright. Because the product uses `collector.js` to gather user data, the application needs an actual privacy policy. Himir agreed and reframed the work as creating and wiring up a proper privacy policy instead of deleting those buttons.
+Audria explained that much of the information should already exist in the README.
 
-Ki and Yusuf then raised a separate local development problem involving CORS blocking requests. Himir showed a quick fix in `app.js` and said he would put that change on a branch so others could proceed with local setup.
+The Wiki should include:
 
-This surfaced a broader point that not every problem had been fully captured on the GitHub issues page, so the active bug list still needed some cleanup as the team tested.
+- A short TLDR summary of the project.
+- A description of what the project does.
+- Instructions for new contributors.
+- Information about where someone unfamiliar with the repository should begin.
+- Notes explaining the purpose of important branches.
+- Documentation of any in-progress or unfinished features.
 
-### Homepage Cleanup and Small UX Fixes
+### Student Questions
 
-Later in the meeting, Himir reviewed a few additional interface issues that should be cleaned up alongside the assigned bugs.
+**Himir:** If we are deploying our application to a hosting platform, is it okay to have a separate deployment branch?
 
-These included:
+**Audria:** Yes.
 
-- Removing the unnecessary graph section from the homepage
-- Keeping only the essential app information and controls on that page
-- Cleaning up the errors page if its current issue owner had not already addressed certain display problems
-- Renaming or explaining unclear technical terms such as `TTFB`, potentially with hover text or more descriptive labels
-- Fixing a docs-page issue that was briefly shown during the walkthrough
+---
 
-Vinh also asked whether the graphs on the main page were still being removed, and Himir confirmed that they should be removed soon.
+**Himir:** What do you mean by drawing the CI/CD?
 
-The meeting ended with a recap: all current bugs should be completed by midweek so the team can deploy the hosted site, test for any newly introduced issues, and spend the remaining time on final stabilization.
+**Audria:** There should already be a diagram showing the CI/CD pipeline.
+
+---
+
+**Matthew Bozoukov:** We do retrospectives on Slack. Do those also need to be included in the repository?
+
+**Audria:** Yes.
+
+---
+
+**Yang:** Different pages may need different navigation. Is that okay?
+
+**Audria:** If the navigation is useful for that page, keep it. If it is redundant or unnecessary, consider removing it.
+
+---
+
+**Ki:** When grading code-smell questions on the midterm, are we expected to write comments?
+
+**Audria:** The format will be similar to MT1, where students fill out tables and identify issues.
+
+### Project Feedback
+
+After questions, the project demo began.
+
+Audria's feedback:
+
+- The project appears to be at a graduate-level quality.
+- The overall implementation looks good.
+- Only a few remaining items still need to be completed before final submission.
 
 ## Takeaways and Summary
 
-This meeting was primarily a bug-assignment and short-term execution meeting focused on getting the product into a stable state before deployment.
+Key outcomes from the meeting:
 
-1. **The team shifted fully into bug-fix mode:** all current GitHub issues were treated as the immediate priority
-2. **Bug ownership was assigned live:** several members claimed issues during the meeting so work could begin immediately
-3. **Navbar behavior needs product clarification and implementation cleanup:** logged-in users should not see misleading landing-page actions
-4. **Privacy-policy work is required, not removable:** because the app collects user data through `collector.js`, the team needs compliant policy pages
-5. **A few additional UX and setup problems remain:** CORS setup, homepage graph cleanup, unclear terminology, and docs-page issues still need attention
+* Two sample midterm questions have been posted in Slack.
+* Students should understand their project's CI pipeline and be comfortable explaining it.
+* The midterm focuses heavily on reading and reasoning about code.
+* Code freeze occurs Sunday EOD.
+* Only the main branch will be graded.
+* The Wiki should provide a clear overview of the project and contribution guidance.
+* Unfinished features should remain on separate branches and be documented.
+* A CI/CD diagram should already exist in the repository.
+* Retrospectives should be included in repository documentation.
+* Navigation should be customized only when it adds value to a page.
 
 **Next Steps:**
 
-- Finish all assigned bug fixes by Wednesday or Thursday
-- Separate landing-page and dashboard navigation where needed
-- Add conditional logged-in navbar behavior
-- Implement Privacy Policy and related legal pages instead of removing those links
-- Apply the local CORS fix and continue validating setup issues
-- Deploy the hosted site after the current bug list is resolved and test for any new issues
+- Review CI/CD pipeline documentation.
+- Study code-reading and code-smell concepts for the midterm.
+- Finish all required code before the freeze deadline.
+- Update the Wiki with contributor guidance and branch information.
+- Document any unfinished features that remain on separate branches.
