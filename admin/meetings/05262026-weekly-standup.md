@@ -2,10 +2,10 @@
 
 **Date: May 26, 2026**  
 **Location:** Team Standup Meeting  
-**Start Time:** Not recorded  
-**End Time:** Not recorded  
+**Start Time:** 6:20  
+**End Time:** 6:30 
 
-**Present:** Team 08  
+**Present:** Himir Desai, Matthew Beaudin, Yusuf Damda, Matthew Bozoukov, Nikita Jos, William Ayoade, Vinh Tong, Ki Diaz, John 
 **Late:**  
 **Absent:**  
 

@@ -6,8 +6,8 @@
 **End Time:** 5:25
 
 **Late:** \
-**Absent:** Nikita Jos
-**Present:** Matthew Beaudin, Matthew Bozoukov, William Ayoade, Yusuf Damda, John Bolibol, Vinh Tong, Ki Diaz, Felix Tong, Yang Bie, Himir Desai, , Welix
+**Absent:** 
+**Present:** Matthew Beaudin, Matthew Bozoukov, William Ayoade, Yusuf Damda, John Bolibol, Vinh Tong, Ki Diaz, Felix Tong, Yang Bie, Himir Desai, Nikita Jos
 
 ## Meeting Outline and Goals
 

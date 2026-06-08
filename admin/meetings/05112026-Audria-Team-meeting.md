@@ -6,8 +6,8 @@
 **End Time:** 6:32pm  
 
 **Present:** Himir Desai, John Bolibol, Yusuf Damda, Ki Diaz, Yang Bie, Matthew Bozoukov, Vinh Tong, Nikita Jos, William Ayoade  
-**Late:**  
-**Absent:**  
+**Late:** 
+**Absent:** Felix 
 
 ## Meeting Outline and Goals
 

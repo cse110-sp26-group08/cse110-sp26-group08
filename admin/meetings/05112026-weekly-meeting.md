@@ -5,7 +5,7 @@
 **Start Time:** 4:00  
 **End Time:** 4:25 
 
-**Present:** Himir Desai, John Bolibol, Yusuf Damda, Ki Diaz, Yang Bie, Matthew Bozoukov, Vinh Tong, Nikita Jos, William Ayoade   
+**Present:** Himir Desai, John Bolibol, Yusuf Damda, Ki Diaz, Yang Bie, Matthew Bozoukov, Vinh Tong, Nikita Jos, William Ayoade  felix 
 **Late:**  
 **Absent:**  
 

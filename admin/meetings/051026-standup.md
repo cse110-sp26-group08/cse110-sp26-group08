@@ -2,7 +2,7 @@
 
 **Date: May 10, 2026**\
 **Location: Slack Thread**\
-**Start Time:** 7:09 PM\
+**Start Time:** 7:09 PM current day\
 **End Time:** 5:05 PM (thread activity concluded next day)
 
 **Late:** \

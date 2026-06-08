@@ -4,8 +4,6 @@
 **Location: Catalyst In Person**\
 **Start Time:** 6:22 PM\
 **End Time:** 6:30 PM
-
-**Absent:** Nikita Jos
 **Present:** Matthew Beaudin, Himir Desai, Matthew Bozoukov, Felix Tong, Yang Bie, Vinh Tong, William Ayoade, Ki Diaz, John Bolibol, Yusuf Damda\
 **Late:** \
 **Absent:** Nikita Jos
